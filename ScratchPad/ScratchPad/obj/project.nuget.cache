@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRv1Ei3HQdRZp5eiuEuAjkVsQ6QMru1pEaY65xYsY6Z86taDEgBrLNsGHfmDD4LnIkWhp6m6cU908Wjx/cMqPw==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\get_prog_w_fs\\ScratchPad\\ScratchPad\\ScratchPad.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wxd02\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

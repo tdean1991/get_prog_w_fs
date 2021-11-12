@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4s+nMnZTEgRrHiwGUdHplySDXXUWTY9H6uw0NgatmzFOHLQTRTUxldFZwe4pxp7cEeNBL0+kZlwg5KZpebqoA==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\get_prog_w_fs\\CarCalc\\CarCalc\\CarCalc.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wxd02\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
