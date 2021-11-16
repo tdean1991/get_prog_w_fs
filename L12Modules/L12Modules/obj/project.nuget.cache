@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ixjhJhL22XnBmW3WjoN6yk7cmoBLbvZFd5EijzZMhR3rOWvgmG3JzBUyJOy6T9xruX6AP2pfYIL3BDA+mxsKLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tdean\\source\\repos\\get_prog_w_fs\\L12Modules\\L12Modules\\L12Modules.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tdean\\.nuget\\packages\\fsharp.core\\6.0.1\\fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
