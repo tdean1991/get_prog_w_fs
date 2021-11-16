@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BackAccountSystemC14", "BackAccountSystemC14\BackAccountSystemC14.fsproj", "{7EDE94CA-6DBA-46D9-9648-09249D25F277}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BankAccountSystem", "BackAccountSystemC14\BankAccountSystem.fsproj", "{7EDE94CA-6DBA-46D9-9648-09249D25F277}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
