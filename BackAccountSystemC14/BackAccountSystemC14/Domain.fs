@@ -1,4 +1,5 @@
-﻿module AccountDto
+﻿module Domain
+
 open System
 
 type Customer = {
